@@ -1,8 +1,5 @@
 package ru.common.dto;
 
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
 public class GoodSerializableUser implements Serializable {

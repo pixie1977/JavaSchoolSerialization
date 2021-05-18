@@ -11,8 +11,9 @@
 
     <modules>
         <module>NotSerializableObject</module>
-        <module>SimpleSerializableObject</module>
+        <module>SerializableObject</module>
         <module>GenerateFromXml</module>
+        <module>XmlSerialization</module>
     </modules>
 
 </project>
