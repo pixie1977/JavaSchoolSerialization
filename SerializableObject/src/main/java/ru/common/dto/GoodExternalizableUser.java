@@ -26,6 +26,14 @@ public class GoodExternalizableUser implements Externalizable {
         return lastName;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
     public String toString(){
         return "{GoodSerializableUser[name=\""+name+"\" lastName=\""+lastName+"\"]}";
     }
