@@ -14,6 +14,7 @@
         <module>SerializableObject</module>
         <module>GenerateFromXml</module>
         <module>XmlSerialization</module>
+        <module>SimpleSpringbootRest</module>
     </modules>
 
 </project>
