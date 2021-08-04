@@ -6,6 +6,9 @@ import ru.common.dto.User;
 
 import java.io.IOException;
 
+/**
+ * Точка входа в демонстрационное приложение
+ */
 public class EntryPointJackson {
     public static void main(String[] args) throws IOException {
         User user1 = new User("user_name_1", "user_lastname_1");
