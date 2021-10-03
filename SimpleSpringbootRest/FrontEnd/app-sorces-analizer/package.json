@@ -1,0 +1,59 @@
+{
+  "name": "app-sorces-analizer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.13",
+    "@material-ui/icons": "^4.9.1",
+    "@mui/material": "^5.0.1",
+    "@ramonak/react-progress-bar": "^3.2.1",
+    "@rpldy/upload-button": "^0.13.5",
+    "@rpldy/upload-drop-zone": "^0.13.5",
+    "@rpldy/uploady": "^0.13.5",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
+    "directory-tree": "^3.0.0",
+    "dropzone-ui": "^2.0.2",
+    "jszip": "^3.7.1",
+    "prop-types": "latest",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-rc.0",
+    "react-dom": "^17.0.2",
+    "react-dropzone": "^11.4.2",
+    "react-popper-tooltip": "^4.3.0",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "proxy": "http://localhost:8081"
+}

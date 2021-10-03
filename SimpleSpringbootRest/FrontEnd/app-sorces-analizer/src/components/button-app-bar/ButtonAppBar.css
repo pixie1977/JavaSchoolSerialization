@@ -1,0 +1,18 @@
+.roundSquare {
+    border-radius: 10px;
+}
+
+.tooltipItem {
+    cursor: pointer;
+}
+
+.tooltipItem:hover {
+    background-color: gray;
+}
+
+.kitt-ecosystem__gradient {
+    position: relative;
+    height: 4px;
+    width: 100%;
+    top: -6px;
+}

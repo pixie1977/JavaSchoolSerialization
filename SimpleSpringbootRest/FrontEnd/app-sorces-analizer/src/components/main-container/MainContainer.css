@@ -1,0 +1,18 @@
+.mainContainer {
+    display: block;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #4475e5;
+}
+
+.kitt-ecosystem__gradient {
+    position: relative;
+    height: 4px;
+    width: 100%;
+    top: -5px;
+}
+
+.inc-img {
+    height: 100%;
+}
